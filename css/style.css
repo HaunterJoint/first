@@ -1,0 +1,22 @@
+body{
+	margin:0px;
+	/*background-image:url('///C:/Users/HCCD/Desktop/Image%20Showcase/img/map-saturation-overlay.png');*/
+	background-color: #000;
+	background-repeat:repeat-x;
+	/*background-size:10px 250px;*/
+	background-image:url('VQaJKNO.jpg')
+}
+.container{
+	margin: 0 auto;
+	border-left:1px solid #A5B2A9
+	border-right:1px solid #A5B2A9;
+	opacity: 0.5;
+	background-color:#6D756F;
+	width:800px;
+	height:1000px;
+	border-radius:20px;
+}
+.masthead{
+	height: 100px;
+	border-bottom:1px solid #A5B2A9;
+}
